@@ -1,5 +1,7 @@
 # BFHL API - VIT Full Stack Assignment
 
+Netlify Deployed URL: https://tranquil-frangipane-484c41.netlify.app
+
 A REST API built with Node.js for VIT's Full Stack Question Paper.
 
 ## 🚀 Live API
