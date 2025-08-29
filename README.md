@@ -4,22 +4,22 @@ Netlify Deployed URL: https://tranquil-frangipane-484c41.netlify.app
 
 A REST API built with Node.js for VIT's Full Stack Question Paper.
 
-## 🚀 Live API
+ Live API
 
 **API Endpoint**: https://tranquil-frangipane-484c41.netlify.app/bfhl
 
-## 📋 Features
+ Features
 
 - POST `/bfhl` endpoint that processes arrays
 - Returns categorized data (odd/even numbers, alphabets, special characters)
 - Calculates sum and creates concatenated strings
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 - **Backend**: Node.js + Express.js
 - **Hosting**: Netlify (Serverless Functions)
 
-## 📝 Assignment Details
+ Assignment Details
 
 - **Course**: VIT Full Stack Development
 - **Student**: Tarandeep Singh Juneja
